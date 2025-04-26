@@ -1,0 +1,20 @@
+{
+  "name": "task-manager-project",
+  "version": "1.0.0",
+  "description": "Fullstack NodeJS Project",
+  "homepage": "https://github.com/Calvin-Ho-1/task-manager#readme",
+  "bugs": {
+    "url": "https://github.com/Calvin-Ho-1/task-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calvin-Ho-1/task-manager.git"
+  },
+  "license": "MIT",
+  "author": "Calvin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
