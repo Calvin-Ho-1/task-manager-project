@@ -1,1 +1,10 @@
 POST http://localhost:3001/tasks
+Content-Type: application/json
+
+{
+  "title": "Title Of the Task",
+  "date": "2025-01-01T12:00:00Z",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lobortis diam vel malesuada ultricies.",
+  "priority": "normal",
+  "status": "todo"
+}
